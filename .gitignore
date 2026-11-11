@@ -1,0 +1,9 @@
+**/*.pdf
+*.aux
+*.d
+*.glob
+*.vo
+*.vok
+*.vos
+
+results/
